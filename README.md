@@ -23,5 +23,5 @@
 
 ### 📱 Featured Projects
 
-* **[Workout Timer](#):** Your ultimate HIIT & Tabata companion app. Live on the Play Store with custom routines and pre-designed workouts.
-* **[LockIn](#):** An accountability app that doesn't just motivate you—it locks you into action. Built utilizing modern Android architecture (MVVM, Coroutines, Flows).
+* **[Workout Timer](https://github.com/Vikash-Singh-Bhadoriya/Workout-Timer):** Your ultimate HIIT & Tabata companion app. Live on the Play Store with custom routines and pre-designed workouts.
+* **[LockIn](https://github.com/Vikash-Singh-Bhadoriya/Lock-In):** An accountability app that doesn't just motivate you—it locks you into action. Built utilizing modern Android architecture (MVVM, Coroutines, Flows).
